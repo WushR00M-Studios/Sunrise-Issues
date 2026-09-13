@@ -4,7 +4,7 @@
 
 # Sunrise
 Report bugs, game crashes, and more issues related to Sunrise and its associated ["documentation"](https://wushroomstudios.com/docs/#/)\
-Current Game Version: `v2026.5.1` (as of September 12, 2026).\
+Current Game Version: `v2026.5.1` (as of September 12, 2026).
   
 **This is the repository where we host various alongside bug reports for Sunrise. Pull requests are not accepted here.**\
 Sunrise's source code will never go public at any point, due to the game being paid.
